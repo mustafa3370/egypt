@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/egypt/static/css/main.eea1e6b3.css",
-    "main.js": "/egypt/static/js/main.57ab25bd.js",
+    "main.css": "/egypt/static/css/main.0028bf91.css",
+    "main.js": "/egypt/static/js/main.f4d56c27.js",
     "static/media/download (3).png": "/egypt/static/media/download (3).9eb296ba3bd874f95d9b.png",
     "static/media/overlay2.jpg": "/egypt/static/media/overlay2.48077f2a76acf3f2b78b.jpg",
     "static/media/download (1).png": "/egypt/static/media/download (1).935780d13470c6266daa.png",
     "static/media/jpg": "/egypt/static/media/62c209c8808264512fe94537c561e13d.f7143e9080f598b55775.jpg",
     "index.html": "/egypt/index.html",
-    "main.eea1e6b3.css.map": "/egypt/static/css/main.eea1e6b3.css.map",
-    "main.57ab25bd.js.map": "/egypt/static/js/main.57ab25bd.js.map"
+    "main.0028bf91.css.map": "/egypt/static/css/main.0028bf91.css.map",
+    "main.f4d56c27.js.map": "/egypt/static/js/main.f4d56c27.js.map"
   },
   "entrypoints": [
-    "static/css/main.eea1e6b3.css",
-    "static/js/main.57ab25bd.js"
+    "static/css/main.0028bf91.css",
+    "static/js/main.f4d56c27.js"
   ]
 }
