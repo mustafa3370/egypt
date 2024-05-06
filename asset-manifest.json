@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/egypt/static/css/main.4103d24f.css",
-    "main.js": "/egypt/static/js/main.c4c976ad.js",
+    "main.css": "/egypt/static/css/main.39a11853.css",
+    "main.js": "/egypt/static/js/main.61f044c5.js",
     "static/media/Let's Go - Egypt _ A Beautiful Destinations Original.mp4": "/egypt/static/media/Let's Go - Egypt _ A Beautiful Destinations Original.578b0697b3f0ac1fa57e.mp4",
     "static/media/download (3).png": "/egypt/static/media/download (3).9eb296ba3bd874f95d9b.png",
+    "static/media/poster.jpg": "/egypt/static/media/poster.ec6b80a33cd8de444a10.jpg",
     "static/media/download (1).png": "/egypt/static/media/download (1).935780d13470c6266daa.png",
     "static/media/jpg": "/egypt/static/media/62c209c8808264512fe94537c561e13d.f7143e9080f598b55775.jpg",
     "index.html": "/egypt/index.html",
-    "main.4103d24f.css.map": "/egypt/static/css/main.4103d24f.css.map",
-    "main.c4c976ad.js.map": "/egypt/static/js/main.c4c976ad.js.map"
+    "main.39a11853.css.map": "/egypt/static/css/main.39a11853.css.map",
+    "main.61f044c5.js.map": "/egypt/static/js/main.61f044c5.js.map"
   },
   "entrypoints": [
-    "static/css/main.4103d24f.css",
-    "static/js/main.c4c976ad.js"
+    "static/css/main.39a11853.css",
+    "static/js/main.61f044c5.js"
   ]
 }
