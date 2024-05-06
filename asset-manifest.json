@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mustafa3370/egypt.git/static/css/main.3db572d6.css",
+    "main.js": "/mustafa3370/egypt.git/static/js/main.e6a71f1e.js",
+    "static/media/download (3).png": "/mustafa3370/egypt.git/static/media/download (3).9eb296ba3bd874f95d9b.png",
+    "static/media/overlay2.jpg": "/mustafa3370/egypt.git/static/media/overlay2.48077f2a76acf3f2b78b.jpg",
+    "static/media/download (1).png": "/mustafa3370/egypt.git/static/media/download (1).935780d13470c6266daa.png",
+    "static/media/jpg": "/mustafa3370/egypt.git/static/media/62c209c8808264512fe94537c561e13d.f7143e9080f598b55775.jpg",
+    "index.html": "/mustafa3370/egypt.git/index.html",
+    "main.3db572d6.css.map": "/mustafa3370/egypt.git/static/css/main.3db572d6.css.map",
+    "main.e6a71f1e.js.map": "/mustafa3370/egypt.git/static/js/main.e6a71f1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3db572d6.css",
+    "static/js/main.e6a71f1e.js"
+  ]
+}
