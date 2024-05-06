@@ -1,0 +1,17 @@
+
+
+#Hero::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('../../photos/overlay2.jpg'); /* Replace 'path/to/egyptian-overlay.png' with the actual path to your overlay image */
+  background-repeat: repeat;
+  opacity: 0.1; /* Adjust the opacity to your preference */
+  z-index: 2; /* Ensure the overlay is above the main content */
+}
+.sora{
+  z-index: 10000;
+}
