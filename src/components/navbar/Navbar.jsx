@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from 'react-router-dom';
 import { MdClose } from "react-icons/md";
 import { TbGridDots } from "react-icons/tb";
 import { HiMenuAlt3 } from "react-icons/hi";
@@ -20,11 +21,11 @@ function Nav() {
             </span>
           </div>
           <ul className="flex-1 flex justify-center items-center gap-16 max-lg:hidden">
-            <a href="/Hero" className="leading-normal text-lg no-underline text-white">Home</a>
-            <a href="#" className="leading-normal text-lg no-underline text-white">Explore</a>
-            <a href="#" className="leading-normal text-lg no-underline text-white">Articles</a>
-            <a href="#" className="leading-normal text-lg no-underline text-white">Galaries</a>
-            <a href="#" className="leading-normal text-lg no-underline text-white">Contact</a>
+            <Link to="/Hero" className="leading-normal text-lg no-underline text-white">Home</Link>
+            <Link to="/test" className="leading-normal text-lg no-underline text-white">Explore</Link>
+            <Link to="#" className="leading-normal text-lg no-underline text-white">Articles</Link>
+            <Link to="#" className="leading-normal text-lg no-underline text-white">Galaries</Link>
+            <Link to="#" className="leading-normal text-lg no-underline text-white">Contact</Link>
           </ul>
           <div className="lg-block hidden ">
             <TbGridDots className="text-[#ce8a5c] text-4xl"/>
@@ -43,15 +44,16 @@ function Nav() {
           <div onClick={showDrobdown} className="lg:hidden w-full h-full fixed top-24 bg-nav bg-cover ease-in-out duration-100">
             <div className="w-full h-full flex flex-col  justify-center items-center pt-8 gap-4">
               <ul className="text-center flex flex-col  justify-center items-center h-[200px] gap-y-10">
-                <a href="/Hero" className="leading-normal style no-underline text-white justify-center items-center h-full ">Home</a>
-                <a href="#" className="leading-normal style no-underline text-white flex justify-center items-center h-full ">Explore</a>
-                <a href="#" className="leading-normal style no-underline text-white flex justify-center items-center h-full ">Articles</a>
-                <a href="#" className="leading-normal style no-underline text-white flex justify-center items-center h-full ">Galaries</a>
-                <a href="#" className="leading-normal style no-underline text-white flex justify-center items-center h-full ">Contact</a>
+                <Link to="/Hero" className="leading-normal style no-underline text-white justify-center items-center h-full ">Home</Link>
+                <Link to="/test" className="leading-normal style no-underline text-white flex justify-center items-center h-full ">Explore</Link>
+                <Link to="#" className="leading-normal style no-underline text-white flex justify-center items-center h-full ">Articles</Link>
+                <Link to="#" className="leading-normal style no-underline text-white flex justify-center items-center h-full ">Galaries</Link>
+                <Link to="#" className="leading-normal style no-underline text-white flex justify-center items-center h-full ">Contact</Link>
               </ul>
             </div>
           </div>
         ) : null}
+        
       </div>
     </nav>
   );
